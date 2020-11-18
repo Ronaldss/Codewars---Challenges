@@ -9,7 +9,7 @@
 My solutions for Codewars problems are written using `Javascript`.
 
 ### [Profile](http://www.codewars.com/users/zebulan)
-![Codewars Rank](https://www.codewars.com/users/ronaldss/badges/large)
+![Codewars Rank](https://www.codewars.com/users/Ronaldss/badges/large)
 
 #Katas
 ### Kyu 8
