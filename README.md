@@ -7,6 +7,7 @@
 # Codewars - Javascript Solutions
 
 My solutions for Codewars problems are written using `Javascript`.
+So I can get better. Practice! Practice! Practice!
 
 ### [Profile](http://www.codewars.com/users/zebulan)
 ![Codewars Rank](https://www.codewars.com/users/Ronaldss/badges/large)
