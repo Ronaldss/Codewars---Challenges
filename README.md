@@ -2,12 +2,12 @@
 <h1 align="center">
   🔥 Codewars Challenges - Ronaldss 🔥
 </h1>
-
+<div align="center">
 [![Build Status](https://travis-ci.org/the-zebulan/CodeWars.svg?branch=master)](https://travis-ci.org/the-zebulan/CodeWars)
 [![Coverage Status](https://coveralls.io/repos/github/the-zebulan/CodeWars/badge.svg?branch=master)](https://coveralls.io/github/the-zebulan/CodeWars?branch=master)
 [![Javascript Version](https://img.shields.io/badge/javascript-blue.svg)]()
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-
+</div>
 # Codewars - Javascript Solutions
 
 ### [Profile](http://www.codewars.com/users/zebulan)
@@ -37,7 +37,7 @@ npm run test // also you can run `npm run watch`
 
 ## Collaborators
 
-[<img src="https://github.com/Ronaldss.png" width="100px;"/>](https://github.com/Ronaldss)<br/> [<sub>weikun tang</sub>](https://github.com/Ronaldss)
+[<img src="https://github.com/Ronaldss.png" width="100px;"/>](https://github.com/Ronaldss)<br/> [<sub>RonaldsS</sub>](https://github.com/Ronaldss)
 
 
 
