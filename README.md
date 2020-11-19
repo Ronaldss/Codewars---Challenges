@@ -3,6 +3,14 @@
   🔥 Codewars Challenges - Ronaldss 🔥
 </h1>
 
+###### Codewarriors are strongly encouraged not to look at my solutions to Kata until you have completed it yourselves or at least took the time to think about your own approaches
+
+###### Codewarriors should not submit my solutions as their own
+
+###### I will not be accepting contributions of any form to this repo
+
+###### Creating a repository like this is discouraged by Codewars
+
 [![Build Status](https://travis-ci.org/the-zebulan/CodeWars.svg?branch=master)](https://travis-ci.org/the-zebulan/CodeWars)
 [![Coverage Status](https://coveralls.io/repos/github/the-zebulan/CodeWars/badge.svg?branch=master)](https://coveralls.io/github/the-zebulan/CodeWars?branch=master)
 [![Javascript Version](https://img.shields.io/badge/javascript-blue.svg)]()
