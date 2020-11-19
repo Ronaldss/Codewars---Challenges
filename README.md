@@ -32,6 +32,9 @@ Practice! Practice! Practice!
 # Challenges accomplished 
 ### Kyu 8
 * Century from year (JavaScript)
+* Beginner Series #1 School Paperwork (Javascript)
+* Grasshopper - Personalized Message (Javascript)
+* Grasshopper - Messi Goals (Javascript)
 
 
 ## Collaborators
