@@ -10,7 +10,7 @@
 
 # Codewars - Javascript Solutions
 
-### [Profile](http://www.codewars.com/users/zebulan)
+### [Profile](http://www.codewars.com/users/Ronaldss)
 ![Codewars Rank](https://www.codewars.com/users/Ronaldss/badges/large)
 
 My solutions for Codewars problems are written using `Javascript`.
